@@ -31,13 +31,19 @@ Next step: after going through amplification, you have many copies of cDNA and g
 
 ## DropSeq
 Automation from manual -> Microfluidics
+
 Beads -> cell junction -> oil junction : some droplets with oil, oil+bead, oil+bead+cell, oil+bead+2cells.
+
 The beads have oligoDT with all the same barcodes. So we know which cell that came from.
-1,000 ~ 10,000 samples in a well.
+
+1,000 ~ 10,000 cells in a well.
+
 An academic lab did this.
 
 Cons: 
+
 -	82% empty, 16% single cell, 2% multiplets/doublets (2+ cells or beads)
+
 -	When increasing the cell concentration and beads, 37% empty, 37% single cell, 26% multiplets
 
 ## 10x genomimcs
